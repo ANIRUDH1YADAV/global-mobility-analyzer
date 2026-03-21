@@ -1,0 +1,25 @@
+```
+# Virtual environment
+myvenv/
+
+# Environment variables (NEVER commit this!)
+.env
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Artifacts (generated files)
+artifact/
+logs/
+
+# Egg info
+*.egg-info/
+
+# VS Code
+.vscode/
+
+# Jupyter
+.ipynb_checkpoints/
